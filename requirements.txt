@@ -1,4 +1,3 @@
-signal
 scapy
 pyfiglet
 termcolor
