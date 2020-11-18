@@ -1,0 +1,9 @@
+signal
+scapy
+pyfiglet
+termcolor
+logging
+ansicolors
+tqdm
+colors
+
