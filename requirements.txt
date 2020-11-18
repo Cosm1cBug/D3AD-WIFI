@@ -4,5 +4,5 @@ termcolor
 logging
 ansicolors
 tqdm
-colors
+color
 
