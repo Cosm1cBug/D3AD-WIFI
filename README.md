@@ -19,7 +19,7 @@ HOW TO USE IT?
 
 First clone the tool to your machine 
 '''
-   git clone https://github.com/redteamacademy/ADCDGRP/D3AD W!F!.git
+   git clone https://github.com/Krypt-0n/Wifi-Deauth.git
    cd D3AD W!F!
    sudo pip3 install -r requirements.txt
    sudo python  D3ADW!F!.py
